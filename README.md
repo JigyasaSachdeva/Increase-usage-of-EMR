@@ -1,6 +1,5 @@
 # Increase-usage-of-EMR
 Analytics of a trends survey to derive KPIs essential for targeting patients to enhance the use of EMR
-
 Project Scope: To increase EMR presence using NIH generic survey applicable to target audience
 
 Folders in the repository: 
