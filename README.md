@@ -19,7 +19,7 @@ Folders in the repository:
 	4. 'Multinomial_EMR.R': Multinomial Logistic Regression Model application 
 
 - Final Output: 
-	1. 'EMR.pptx': Entire presentation explaining the workflow; Final slide indiciating KPIs observed and to be targeted 
+	1. 'EMR.pdf': Entire presentation explaining the workflow; Final slide indiciating KPIs observed and to be targeted 
 	2. 'FinalData5.csv': Data created after pre-processing and cleaning
 	3. 'Multinomial Logistic Regression Output.xlsx': Combined coef.csv and pvalue.csv in a readable format to highlight KPIs of the data
 	4. 'coef.csv': Coefficients of variables retrieved from multinomial logistic regression model output
